@@ -14,9 +14,9 @@ else:
 
 current_card = {}
 Title = "French"
-word = "is gay"
+word = "yes"
 Title_front = "French"
-word_front = "is gay"
+word_front = "trial"
 FONT_title = ("Ariel", 40, "italic")
 FONT_word = ("Ariel", 60, "bold")
 timer = None
